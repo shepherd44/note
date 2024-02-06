@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "k8s/K8S - Sample.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "k8s/K8S - Sample.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
+                "file": "k8s/K8S - Sample.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md.md"
+                "file": "k8s/K8S - Sample.md"
               }
             }
           }
@@ -149,7 +149,8 @@
   },
   "active": "8ef667b8cea47a4f",
   "lastOpenFiles": [
-    "README.md.md",
+    "README.md",
+    "k8s/K8S - Sample.md",
     "k8s"
   ]
 }
