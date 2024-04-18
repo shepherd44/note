@@ -38,9 +38,19 @@
                 "currentVersion": "1.5.11"
               }
             }
+          },
+          {
+            "id": "8788658bcb24b5a1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,7 +178,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cae351aeb1ca86fa",
+  "active": "8788658bcb24b5a1",
   "lastOpenFiles": [
     "README.md",
     "k8s/K8S - Sample.md",
