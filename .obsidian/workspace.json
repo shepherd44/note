@@ -18,39 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "719aefe990b5c6b1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
-          },
-          {
-            "id": "cae351aeb1ca86fa",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
-          },
-          {
-            "id": "8788658bcb24b5a1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +147,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8788658bcb24b5a1",
+  "active": "8ef667b8cea47a4f",
   "lastOpenFiles": [
     "README.md",
     "k8s/K8S - Sample.md",
